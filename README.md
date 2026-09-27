@@ -35,15 +35,15 @@
 
 Дизайн приложения был предварительно подготовлен в Figma. Ниже приведены макеты, использованные как основа для Android-интерфейса.
 
-### Экран авторизации
+### 
 
 ![Figma — экран авторизации](docs/images/figma/figma-login.jpg)
 
-### Главное меню
+### 
 
 ![Figma — главное меню](docs/images/figma/figma-main.jpg)
 
-### Карточка товара / рабочие экраны
+### 
 
 ![Figma — карточка товара](docs/images/figma/figma-product.jpg)
 
@@ -200,6 +200,17 @@ app/build/outputs/apk/debug/app-debug.apk
 └── README.md
 ```
 
+
 ## Команда
 
-Проект выполнен командой из **5 человек** в рамках совместной разработки и миграции ТСД-приложения на Android Native Java.
+Проект разработан командой из **5 человек**.
+
+| Участник | GitHub |
+|---|---|
+| Виктория Сутормина | https://github.com/Vikki122222 |
+| Мария Демина | https://gitverse.ru/misaam |
+| Виктория Меньшикова | https://github.com/menvika |
+| Алексей Хромышев | https://github.com/Al3xKhrom |
+| Анастасия Тинякова | https://gitverse.ru/davekat |
+
+
